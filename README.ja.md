@@ -39,7 +39,7 @@ astro-notion-blog を使えば [Notion](https://www.notion.so) で書けるブ�
 
 ### ステップ
 
-1. このリポジトリを**スターします** :wink:
+1. このリポジトを**スターします** :wink:
    - スターしていただけると開発の励みになります
 2. [ブログテンプレート](https://otoyo.notion.site/e2c5fa2e8660452988d6137ba57fd974?v=abe305cd8b3d467285e91a2a85f4d8de) を自分の Notion へ複製します
 3. 複製したページ(データベース)のアイコン、タイトル、説明を変更します
